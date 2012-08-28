@@ -1,0 +1,55 @@
+
+“位置闹钟”是一款提醒你地点的软件，它在后台运行，在即将到达目的地前发出提醒。🔔 如果你是一个业务销售者,可以用来在地图上标记用户的地址。下次路过时就会可以提醒你：附近有你的客户。
+🕘 如果家里的酱油没了,那么在办公室里你就可以先在地图上标记超市的位置。下班后路过超市时,自然会提醒你该买东西啦。
+🚃 你想在上班的公交里刷会儿微博,你可以通过地图设置好目的地,到站时位置闹钟就会提醒你该下车了,这样就不会坐过站。“位置闹钟”正是能让你出行时可以沉浸在思考、游戏或睡梦中的实用工具!只要设定好需要到达的目的地，那么它在达目的地前就会及时提醒您。特色功能：
+★ 通过“定时通知”功能指定“定位服务”开启的时段，从而节约电池电力。
+★ 可以使用地图来指定提醒的目的地，操作方便,简单明了。
+★ 与iPhone的通讯录互动操作，地址查询快捷方便。
+★ 在后台运行,不会对你有任何影响。
+★ 完成闹钟的设定后,在其使用过程中无需网络连接。“位置闹钟”是出行的好伴侣。你可以专心的沉浸在音乐、视频或游戏中,或者安心的打个瞌睡,却不会错过你的目的地!
+
+注意:在后台持续运行GPS可能会降低电池寿命。
+
+
+"iAlarm" is software reminding you the location. It runs in the background and reminds you when you are approaching to the destination.
+
+🔔 If you are a salesperson, it can be used to mark the addresses of clients on the map. It will remind you when you pass by next time: there is/are client(s) nearby.
+
+🕘 If you are running out of life necessities, then you can mark the location of supermarket on the map first. It will remind you when you pass by the supermarket after work.
+
+🚃 If you want to update your Twitter while you are on the bus to work, you can set the destination on the map first and the iAlarm will remind you to get off so that you will not miss your stop.
+
+The “iAlarm” is a practical tool that allows you to immerse in thinking, games or dreams during your travel! As long as the destination has been set, the “iAlarm” will remind you in time when you are approaching to the destination.
+
+Features:
+
+★ You can designate time interval for enabling the “Location Service” through the "Timer" so as to save the battery power.
+
+★ You can designate the determination to be reminded with map. The operation is very simple.
+
+★ It is convenient to query address by interacting with iPhone address book.
+
+★ It is fully background compatible without bothering you.
+
+★ After a clock has been set, network connection is not required during its use.
+
+The “iAlarm” is a good partner during your travel. You will enjoy music, videos, games, or even naps. No chance to miss your stop!
+
+
+Please note that continued use of GPS running in the background can dramatically decrease battery life.
+
+
+“位置アラーム”はあなたに位置情報をお知らせするソフトであり、バックグラウンドで利用可能です。目的地に到着する直前にアラーム通知します。🔔 もしあなたがセールスマンであれば、地図上に顧客の住所を登録することが出来ます。以降、登録した住所付近を通りがかった時にお知らせすることが出来ます。🕘 もしお醤油が切れてしまった時、職場でスーパーの位置を登録しておき、仕事終わりにスーパー付近を通りがかると、アラームでお知らせすることが出来ます。🚃 公共交通機関に乗車中、ツイッターをしている時でも、設定した目的地に到着する直前にアラームでお知らせすることができるので、乗り過ごすことはありません。“位置アラーム”は、外出中にゲームをしている時や睡眠時などに実用的なアイテムです！目的地の設定さえしていれば、到着直前にお知らせすることができます。主な機能
+★ “定時アラーム”“機能指定”“定位置通知”は電池の消耗を節約します。
+★ 地図を使用して目的地を指定することができるので、操作が簡単です。
+★ iPhoneの通信記録に連動して、住所の検索が出来ます。
+★ バックグランドにより作動しますので、iPhoneの操作に影響がありません。
+★ アラームの設定完了後は、使用途中にインターネット回線が切れても問題ありません。
+“位置アラーム”は旅行のベストパートナーです。あなたは自由に音楽に浸ったり、テレビを見たり、ゲームをしたり、または安心して睡眠につくことができ、目的地を通り過ぎてしまうことはありません！
+
+バックグラウンドでGPSを使用し続けると、バッテリーの寿命が非常に短くなることがあります。
+
+Keywords Alarm,GPS,Map,Location,clock,timer,位置,Location,Destination,iAlarm,位置アラーム,アラーム,GPSアラーム
+
+
+

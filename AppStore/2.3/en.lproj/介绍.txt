@@ -1,0 +1,28 @@
+
+"iAlarm" is software reminding you the location. It runs in the background and reminds you when you are approaching to the destination.
+
+🔔 If you are a salesperson, it can be used to mark the addresses of clients on the map. It will remind you when you pass by next time: there is/are client(s) nearby.
+
+🕘 If you are running out of life necessities, then you can mark the location of supermarket on the map first. It will remind you when you pass by the supermarket after work.
+
+🚃 If you want to update your Twitter while you are on the bus to work, you can set the destination on the map first and the iAlarm will remind you to get off so that you will not miss your stop.
+
+The “iAlarm” is a practical tool that allows you to immerse in thinking, games or dreams during your travel! As long as the destination has been set, the “iAlarm” will remind you in time when you are approaching to the destination.
+
+Features:
+
+★ You can designate time interval for enabling the “Location Service” through the "Timer" so as to save the battery power.
+
+★ You can designate the determination to be reminded with map. The operation is very simple.
+
+★ It is convenient to query address by interacting with iPhone address book.
+
+★ It is fully background compatible without bothering you.
+
+★ After a clock has been set, network connection is not required during its use.
+
+The “iAlarm” is a good partner during your travel. You will enjoy music, videos, games, or even naps. No chance to miss your stop!
+
+
+Please note that continued use of GPS running in the background can dramatically decrease battery life.
+
