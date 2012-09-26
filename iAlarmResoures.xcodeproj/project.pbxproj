@@ -104,6 +104,10 @@
 		9C6DCAB015ECD180009AFDC7 /* 2.3英文翻译.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "2.3英文翻译.docx"; sourceTree = "<group>"; };
 		9C6DCAB115ECD180009AFDC7 /* trans2.3英文翻译 .docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "trans2.3英文翻译 .docx"; sourceTree = "<group>"; };
 		9C6DCAB215ECD180009AFDC7 /* 结果2.3日文翻译.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "结果2.3日文翻译.doc"; sourceTree = "<group>"; };
+		9CB9713315F6F00500847B76 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = en; path = en.lproj/alarms.plist; sourceTree = "<group>"; };
+		9CB9713515F6F00C00847B76 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = "zh-Hans"; path = "zh-Hans.lproj/alarms.plist"; sourceTree = "<group>"; };
+		9CB9713615F6F00C00847B76 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = "zh-Hant"; path = "zh-Hant.lproj/alarms.plist"; sourceTree = "<group>"; };
+		9CB9713715F6F00C00847B76 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = ja; path = ja.lproj/alarms.plist; sourceTree = "<group>"; };
 		9CD6859115ECD50E00CD1BAA /* icon.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = icon.psd; sourceTree = "<group>"; };
 		9CD6859515ECD92E00CD1BAA /* YCAlertTableViewCellRowFirst.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YCAlertTableViewCellRowFirst.png; sourceTree = "<group>"; };
 		9CD6859615ECD92E00CD1BAA /* YCAlertTableViewCellRowLast.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YCAlertTableViewCellRowLast.png; sourceTree = "<group>"; };
@@ -136,12 +140,33 @@
 		9CD685B615ECDA2200CD1BAA /* IAButtonBarLists@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IAButtonBarLists@2x.png"; sourceTree = "<group>"; };
 		9CD685B715ECDA2200CD1BAA /* IAButtonBarMaps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IAButtonBarMaps.png; sourceTree = "<group>"; };
 		9CD685B815ECDA2200CD1BAA /* IAButtonBarMaps@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IAButtonBarMaps@2x.png"; sourceTree = "<group>"; };
+		9CF823C316108D2400C0795B /* en */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = en; path = "en.lproj/橙色.jpg"; sourceTree = "<group>"; };
+		9CF823C516108D3900C0795B /* en */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = en; path = "en.lproj/红色.jpg"; sourceTree = "<group>"; };
+		9CF823C716108D3D00C0795B /* en */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = en; path = "en.lproj/蓝色.jpg"; sourceTree = "<group>"; };
+		9CF823C916108D4000C0795B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hans"; path = "zh-Hans.lproj/橙色.jpg"; sourceTree = "<group>"; };
+		9CF823CA16108D4100C0795B /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hant"; path = "zh-Hant.lproj/橙色.jpg"; sourceTree = "<group>"; };
+		9CF823CB16108D4100C0795B /* ja */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ja; path = "ja.lproj/橙色.jpg"; sourceTree = "<group>"; };
+		9CF823CC16108D4500C0795B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hans"; path = "zh-Hans.lproj/红色.jpg"; sourceTree = "<group>"; };
+		9CF823CD16108D4600C0795B /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hant"; path = "zh-Hant.lproj/红色.jpg"; sourceTree = "<group>"; };
+		9CF823CE16108D4700C0795B /* ja */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ja; path = "ja.lproj/红色.jpg"; sourceTree = "<group>"; };
+		9CF823CF16108D5600C0795B /* en */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = en; path = "en.lproj/绿色.jpg"; sourceTree = "<group>"; };
+		9CF823D116108D5A00C0795B /* en */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = en; path = "en.lproj/紫色.jpg"; sourceTree = "<group>"; };
+		9CF823D316108D5D00C0795B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hans"; path = "zh-Hans.lproj/蓝色.jpg"; sourceTree = "<group>"; };
+		9CF823D416108D5E00C0795B /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hant"; path = "zh-Hant.lproj/蓝色.jpg"; sourceTree = "<group>"; };
+		9CF823D516108D5F00C0795B /* ja */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ja; path = "ja.lproj/蓝色.jpg"; sourceTree = "<group>"; };
+		9CF823D616108D6100C0795B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hans"; path = "zh-Hans.lproj/绿色.jpg"; sourceTree = "<group>"; };
+		9CF823D716108D6200C0795B /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hant"; path = "zh-Hant.lproj/绿色.jpg"; sourceTree = "<group>"; };
+		9CF823D816108D6300C0795B /* ja */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ja; path = "ja.lproj/绿色.jpg"; sourceTree = "<group>"; };
+		9CF823D916108D6700C0795B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hans"; path = "zh-Hans.lproj/紫色.jpg"; sourceTree = "<group>"; };
+		9CF823DA16108D6800C0795B /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zh-Hant"; path = "zh-Hant.lproj/紫色.jpg"; sourceTree = "<group>"; };
+		9CF823DB16108D6800C0795B /* ja */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ja; path = "ja.lproj/紫色.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9C4615CB15ECD287006629E2 /* 2.3 */ = {
 			isa = PBXGroup;
 			children = (
+				9CB9713415F6F00500847B76 /* alarms.plist */,
 				9CD6859115ECD50E00CD1BAA /* icon.psd */,
 				9C4615D415ECD294006629E2 /* 1.png */,
 				9C4615DB15ECD2B0006629E2 /* 2.png */,
@@ -167,6 +192,7 @@
 		9C6DCA5515ECD180009AFDC7 /* AppStore */ = {
 			isa = PBXGroup;
 			children = (
+				9CF823BC16108CC700C0795B /* 2.4 */,
 				9C4615CB15ECD287006629E2 /* 2.3 */,
 			);
 			path = AppStore;
@@ -421,6 +447,18 @@
 			path = switchToolbar;
 			sourceTree = "<group>";
 		};
+		9CF823BC16108CC700C0795B /* 2.4 */ = {
+			isa = PBXGroup;
+			children = (
+				9CF823C416108D2400C0795B /* 橙色.jpg */,
+				9CF823C616108D3900C0795B /* 红色.jpg */,
+				9CF823C816108D3D00C0795B /* 蓝色.jpg */,
+				9CF823D016108D5600C0795B /* 绿色.jpg */,
+				9CF823D216108D5A00C0795B /* 紫色.jpg */,
+			);
+			path = 2.4;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXProject section */
@@ -523,6 +561,72 @@
 				9C4615F515ECD2E0006629E2 /* ja */,
 			);
 			name = "截图.psd";
+			sourceTree = "<group>";
+		};
+		9CB9713415F6F00500847B76 /* alarms.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CB9713315F6F00500847B76 /* en */,
+				9CB9713515F6F00C00847B76 /* zh-Hans */,
+				9CB9713615F6F00C00847B76 /* zh-Hant */,
+				9CB9713715F6F00C00847B76 /* ja */,
+			);
+			name = alarms.plist;
+			sourceTree = "<group>";
+		};
+		9CF823C416108D2400C0795B /* 橙色.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CF823C316108D2400C0795B /* en */,
+				9CF823C916108D4000C0795B /* zh-Hans */,
+				9CF823CA16108D4100C0795B /* zh-Hant */,
+				9CF823CB16108D4100C0795B /* ja */,
+			);
+			name = "橙色.jpg";
+			sourceTree = "<group>";
+		};
+		9CF823C616108D3900C0795B /* 红色.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CF823C516108D3900C0795B /* en */,
+				9CF823CC16108D4500C0795B /* zh-Hans */,
+				9CF823CD16108D4600C0795B /* zh-Hant */,
+				9CF823CE16108D4700C0795B /* ja */,
+			);
+			name = "红色.jpg";
+			sourceTree = "<group>";
+		};
+		9CF823C816108D3D00C0795B /* 蓝色.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CF823C716108D3D00C0795B /* en */,
+				9CF823D316108D5D00C0795B /* zh-Hans */,
+				9CF823D416108D5E00C0795B /* zh-Hant */,
+				9CF823D516108D5F00C0795B /* ja */,
+			);
+			name = "蓝色.jpg";
+			sourceTree = "<group>";
+		};
+		9CF823D016108D5600C0795B /* 绿色.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CF823CF16108D5600C0795B /* en */,
+				9CF823D616108D6100C0795B /* zh-Hans */,
+				9CF823D716108D6200C0795B /* zh-Hant */,
+				9CF823D816108D6300C0795B /* ja */,
+			);
+			name = "绿色.jpg";
+			sourceTree = "<group>";
+		};
+		9CF823D216108D5A00C0795B /* 紫色.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CF823D116108D5A00C0795B /* en */,
+				9CF823D916108D6700C0795B /* zh-Hans */,
+				9CF823DA16108D6800C0795B /* zh-Hant */,
+				9CF823DB16108D6800C0795B /* ja */,
+			);
+			name = "紫色.jpg";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

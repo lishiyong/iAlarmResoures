@@ -26,3 +26,6 @@ The “iAlarm” is a good partner during your travel. You will enjoy music, vid
 
 Please note that continued use of GPS running in the background can dramatically decrease battery life.
 
+
+Keywords Alarm,GPS,Map,Location,clock,timer,Destination,Sleep,iAlarm,Location Alarm,GPS Alarm,Map Alarm
+

@@ -25,5 +25,5 @@
 
 バックグラウンドでGPSを使用し続けると、バッテリーの寿命が非常に短くなることがあります。
 
-Keywords Alarm,GPS,Map,Location,clock,timer,位置,Location,Destination,iAlarm,位置アラーム,アラーム,GPSアラーム
+Keywords Alarm,GPS,Map,Location,clock,timer,Destination,Sleep,iAlarm,位置,地図,マップ,位置アラーム,アラーム,GPSアラーム
 
